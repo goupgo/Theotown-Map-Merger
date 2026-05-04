@@ -52,8 +52,5 @@ This tool is an unofficial, fan-made utility for TheoTown. It is not affiliated 
 
 This tool was created strictly for educational purposes and to enhance the community modding experience. Always back up your city files before modifying them! The author is not responsible for any corrupted save files.
 
-A Message to the Developers:
-I hold immense respect for TheoTown and its development team. This open-source tool is shared freely with the community and is not intended to infringe upon any intellectual property or disrupt the game's monetization. If the developers (Lobby Divinus / blueflower) believe this tool negatively impacts the game in any way, please contact me, and I will unconditionally take down the repository and the web application immediately.
-
 📜 License
 This project is open-sourced under the MIT License. You are free to use, modify, and distribute this software. See the LICENSE file for more details.
