@@ -38,3 +38,22 @@ If you wish to run the Streamlit app on your local machine:
 1. Clone this repository:
    ```bash
    git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+
+2. Install the required dependency:
+   ```bash
+   pip install streamlit
+
+3. Run the application:
+   ```bash
+   streamlit run app.py
+
+⚖️ Disclaimer & Legal
+This tool is an unofficial, fan-made utility for TheoTown. It is not affiliated with, endorsed, or sponsored by Lobby Divinus or blueflower.
+
+This tool was created strictly for educational purposes and to enhance the community modding experience. Always back up your city files before modifying them! The author is not responsible for any corrupted save files.
+
+A Message to the Developers:
+I hold immense respect for TheoTown and its development team. This open-source tool is shared freely with the community and is not intended to infringe upon any intellectual property or disrupt the game's monetization. If the developers (Lobby Divinus / blueflower) believe this tool negatively impacts the game in any way, please contact me, and I will unconditionally take down the repository and the web application immediately.
+
+📜 License
+This project is open-sourced under the MIT License. You are free to use, modify, and distribute this software. See the LICENSE file for more details.
